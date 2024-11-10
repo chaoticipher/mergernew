@@ -1,0 +1,25 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolithic",
+    "baseName": "mergernew",
+    "buildTool": "maven",
+    "cacheProvider": "ehcache",
+    "clientFramework": "react",
+    "clientPackageManager": "npm",
+    "databaseType": "sql",
+    "devServerPort": 9060,
+    "enableHibernateCache": true,
+    "enableSwaggerCodegen": true,
+    "enableTranslation": true,
+    "entities": [],
+    "jhipsterVersion": "8.7.1",
+    "jwtSecretKey": "newSecretKey",
+    "languages": ["en"],
+    "monorepository": true,
+    "nativeLanguage": "en",
+    "serviceDiscoveryType": "eureka",
+    "skipCommitHook": true,
+    "testFrameworks": ["cucumber"],
+    "websocket": "spring-websocket"
+  }
+}
